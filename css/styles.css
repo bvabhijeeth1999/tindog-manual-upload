@@ -1,0 +1,166 @@
+#title {
+  background-color: #ef8172;
+  color: white;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.t1 {
+  font-family: "Montserrat",sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding : 3% 15% 8% 15%;
+}
+
+/* Navigation bar */
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size : 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding:0 0 4.5rem 0;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat-light";
+}
+
+.nav-item {
+  padding-right: 2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width : 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.sub-heading {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+/* icon-styling */
+
+  .icon-style {
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+  }
+
+  .t-ali {
+    text-align: center;
+    padding: 4%;
+  }
+
+  p {
+    color : #8f8f8f;
+    font-family: "Ubuntu";
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .icon-style:hover {
+    color: #ff4c68;
+  }
+
+/* features-section */
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position :relative;
+  z-index: 1;
+}
+
+
+/* testimonials section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.hh2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 8rem;
+  border-radius: 50%;
+  margin-right: 1.3rem;
+}
+
+.padd {
+  padding : 7% 15%;
+}
+
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3rem;
+}
+
+/* pricing section */
+
+#pricing {
+  padding : 100px;
+  text-align: center;
+}
+
+.pricing-col {
+  padding : 3% 2%;
+}
+
+/* call to action section */
+
+#cta {
+  text-align : center;
+  padding : 100px 300px;
+  background-color: #ff4c68;
+  color: #fff;
+  font-family: "Montserrat";
+}
+
+.sub-heading {
+  font-weight: 1000;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 50px;
+}
+
+.bttt {
+  margin : 20px;
+}
+
+/* footer */
+
+#footer {
+  text-align: center;
+  padding : 75px 300px;
+}
+
+.icon {
+  margin : 10px;
+}
+
+.para {
+  margin-top : 20px;
+}
